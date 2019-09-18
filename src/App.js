@@ -15,7 +15,6 @@ function App() {
   return (
     <main>
       <h1>Create React App + Go API</h1>
-      <h3>Testing</h3>
       <h2>
         Deployed with{' '}
         <a
@@ -23,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT-Now
+          ZEIT Now
         </a>
         !
       </h2>
